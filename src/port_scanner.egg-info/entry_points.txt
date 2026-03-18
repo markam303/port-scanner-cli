@@ -1,2 +1,0 @@
-[console_scripts]
-port-scanner = port_scanner.__main__:main
